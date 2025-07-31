@@ -186,4 +186,3 @@ class AuthController extends Controller
         return ['errors' => $errors];
     }
 }
-?>
